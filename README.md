@@ -3,8 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>PowerShell</b>
-  - [FIM (File Integrity Monitor)](https://github.com/mohammedshahwan/LABURL)
-  - [Active Directory Bulk User Creation](https://github.com/mohammedshahwan/AD_PS)
+  - [FIM (File Integrity Monitor)](https://github.com/mohammedshahwan/PowerShell-FIM-Tool)
+<!--  - [Active Directory Bulk User Creation](https://github.com/mohammedshahwan/AD_PS) -->
 
 <h2>📜 Certifications:</h2>
 
