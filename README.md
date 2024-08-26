@@ -1,6 +1,6 @@
 <h1>Hi, I'm Mohammed! <br/>
 
-<h2>💻 Cybersecurity Projects:</h2>
+<h2>💻 Cybersecurity/IT Projects:</h2>
 
 - <b>PowerShell</b>
   - [FIM (File Integrity Monitor)](https://github.com/mohammedshahwan/PowerShell-FIM-Tool)
