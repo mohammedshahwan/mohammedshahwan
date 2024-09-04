@@ -4,7 +4,7 @@
 
 - <b>PowerShell</b>
   - [FIM (File Integrity Monitor)](https://github.com/mohammedshahwan/PowerShell-FIM-Tool)
-  - [Active Directory & Bulk User Creation](https://github.com/mohammedshahwan/Active-Directory)
+  - [Active Directory Lab & Bulk User Creation](https://github.com/mohammedshahwan/Active-Directory)
 
 <h2>📜 Certifications:</h2>
 
