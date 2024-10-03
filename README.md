@@ -5,7 +5,7 @@
 
  - [FIM (File Integrity Monitor)](https://github.com/mohammedshahwan/PowerShell-FIM-Tool)
  - [Active Directory Lab & Bulk User Creation](https://github.com/mohammedshahwan/Active-Directory)
- - [Azure Live Honeynet & Log Analysis](https://github.com/mohammedshahwan/Azure-Honeynet) <!-- Possibly change the name of the display link... -->
+ - [Honeypot SOC Project with Azure: LIVE Cyber Attacks](https://github.com/mohammedshahwan/Azure-Honeypot-SOC)
 
 <h2>📜 Certifications:</h2>
 
