@@ -2,10 +2,10 @@
 
 <h2>💻 Cybersecurity/IT Projects:</h2>
 
-- <b>PowerShell</b>
-  - [FIM (File Integrity Monitor)](https://github.com/mohammedshahwan/PowerShell-FIM-Tool)
-  - [Active Directory Lab & Bulk User Creation](https://github.com/mohammedshahwan/Active-Directory)
-  - [Azure Live Honeynet & Log Analysis](https://github.com/mohammedshahwan/Azure-Honeynet) <!-- Possibly change the name of the display link... -->
+
+ - [FIM (File Integrity Monitor)](https://github.com/mohammedshahwan/PowerShell-FIM-Tool)
+ - [Active Directory Lab & Bulk User Creation](https://github.com/mohammedshahwan/Active-Directory)
+ - [Azure Live Honeynet & Log Analysis](https://github.com/mohammedshahwan/Azure-Honeynet) <!-- Possibly change the name of the display link... -->
 
 <h2>📜 Certifications:</h2>
 
