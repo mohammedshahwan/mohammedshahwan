@@ -15,9 +15,7 @@
 
 <h3>Connect with me on LinkedIn</h3>
 
-[<img align="left" alt="MohammedShahwan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/mohammed-shahwan/
+<a href="https://linkedin.com/in/mohammed-shahwan"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!--
 **mohammedshahwan/mohammedshahwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
